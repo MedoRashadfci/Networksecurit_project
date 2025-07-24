@@ -22,3 +22,9 @@ The network is segmented into multiple /28 and /30 networks with strict security
 ## 🖼 Network Topology
 
 <img width="2184" height="787" alt="{310F278C-71EF-439C-BFB4-AA7FABEC0520}" src="https://github.com/user-attachments/assets/fb4c45c8-c0f2-417e-89f3-a7f96dda11d1" />
+
+## 📂 Project Files
+
+Access all project documents via Google Drive:  
+[Click here to open the Drive folder]([https://drive.google.com/your-link-her](https://drive.google.com/drive/folders/16sz4c5FDcCtKj7iHxq1QjlQ3C56Go8UN?usp=drive_link))
+
