@@ -26,5 +26,5 @@ The network is segmented into multiple /28 and /30 networks with strict security
 ## 📂 Project Files
 
 Access all project documents via Google Drive:  
-[Click here to open the Drive folder]([https://drive.google.com/your-link-her](https://drive.google.com/drive/folders/16sz4c5FDcCtKj7iHxq1QjlQ3C56Go8UN?usp=drive_link))
+[Click here to open the Drive folder](https://drive.google.com/drive/folders/16sz4c5FDcCtKj7iHxq1QjlQ3C56Go8UN)
 
